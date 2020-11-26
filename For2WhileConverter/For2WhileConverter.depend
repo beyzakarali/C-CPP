@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606394526 source:c:\users\beyza\desktop\for2whileconverter\main.c
+	<stdio.h>
+	<stdlib.h>
+
